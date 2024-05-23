@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "A3-GreyShirts.sln"
+    "dotnet.defaultSolution": "DECO3009_A3_GreyShirts.sln"
 }
