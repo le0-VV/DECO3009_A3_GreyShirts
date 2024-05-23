@@ -1,5 +1,7 @@
 # Group Grey Shirt's repository
 
+**WARNING: Repo size will baloon to 11GB after opening in unity**
+
 This is the repository for Group Grey Shirt's DECO3009 A3 VR experience assignment. As per Unity's official gitignore (see .gitignore) a lot of files have been excluded from being uploaded to here, such as Library and UserSettings. Expect exeptionally long load time upon first launch with Unity
 
 This project will open into an empty scene, this is expected behaviour. Our scene is named "DemoScene", not the one the project defaults to.
